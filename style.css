@@ -1,0 +1,25 @@
+body{
+    font-family: system-ui;
+    
+}
+h2{
+    color: hotpink;
+    border-bottom: 10px dotted purple;
+}
+.title{
+    color: rosybrown;
+    font-weight: bold;
+}
+h3{
+    font-style:  italic;
+}
+ul{
+    background-color: #eeeeee;
+    border: 5px solid purple;
+    padding-top: 5px;
+}
+
+a:hover{
+    color: green
+}
+

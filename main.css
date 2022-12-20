@@ -1,0 +1,22 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+h2{
+    color: lightcoral;
+    border-bottom: 1px solid black;
+}
+.title{
+    color: gray;
+    font-style: bold;
+}
+span{
+    font-style: italic;
+}
+h3{
+    font-style: italic;
+}
+a:hover{
+    color: green;
+    text-decoration: none;
+}
