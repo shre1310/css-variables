@@ -1,0 +1,29 @@
+h2 {
+    font-size: 2em;
+    color: #000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.small {
+    font-size: 1em;
+}
+
+.bright {
+    color: chartreuse;
+}
+
+#winning {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.better {
+    background-color: gray;
+    border: none;
+}
+
+p {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
